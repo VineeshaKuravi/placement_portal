@@ -1,4 +1,4 @@
-# College-Placement-Portal
+# Placement-Portal
 
 The College Placement Portal is a web technology project with the aim of providing the college, a placement portal so that the students can easily get the notifications on job releases and apply, prepare for the test and interviews with the resources provided.
 
@@ -8,7 +8,7 @@ The College Placement Portal is a web technology project with the aim of providi
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/AzeefaAnjum/College-Placement-Portal.git).
+3. Download project from github(https://github.com/VineeshaKuravi/placement_portal).
 
 4. Extract files in C:\xampp\htdocs. Name the folder as placement-portal
 
